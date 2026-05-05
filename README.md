@@ -1,4 +1,4 @@
-# 📝 README: Análise de Previsibilidade Pecuária (IFBOI vs CEPEA)
+# 📝 Análise de Previsibilidade Pecuária (IFBOI vs CEPEA)
 
 Este notebook apresenta uma análise técnica aprofundada para validar a capacidade do **IFBOI** (Índice Futuro do Boi Gordo da B3) de atuar como um **indicador antecedente** para o **CEPEA** (preço do boi gordo no mercado físico). O objetivo é fornecer uma base estatisticamente robusta para tomadas de decisão no mercado pecuário, evitando as armadilhas da correlação espúria.
 
